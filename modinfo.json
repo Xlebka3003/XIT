@@ -1,0 +1,14 @@
+{
+  "type": "code",
+  "side": "Universal",
+  "requiredOnClient": false,
+  "requiredOnServer": false,
+  "modid": "xit",
+  "name": "Xlebka’s Inventory Toolkit — XIT",
+  "authors": ["Xlebka"],
+  "description": "Recipe browser, crafting autofill, inventory sorting, container search and hotbar refill.",
+  "version": "3.0.6",
+  "dependencies": {
+    "game": "1.22.0"
+  }
+}
